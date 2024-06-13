@@ -1,0 +1,22 @@
+:host {
+    display: block;
+    margin-top: 1rem;
+}
+.info-text {
+    text-align: center;
+}
+.edit-input{
+    display: flex;
+    flex-direction: column;
+}
+.update-button{
+    display: flex;
+}
+.pagination{
+    margin-top: 10px;
+    margin-bottom: 50px;
+    margin-right:25px;
+    display: flex;
+    justify-content: flex-end;
+    
+}
